@@ -1,4 +1,4 @@
-# Author: OMKAR PATHAK
+ 
 
 # Linked List and Node can be accomodated in separate classes for convenience
 

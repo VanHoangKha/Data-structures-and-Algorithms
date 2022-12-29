@@ -1,4 +1,4 @@
-# Author: OMKAR PATHAK
+ 
 
 class Graph():
     def __init__(self):

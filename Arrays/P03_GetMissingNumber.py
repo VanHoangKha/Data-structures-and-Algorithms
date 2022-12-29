@@ -1,4 +1,4 @@
-# Author: OMKAR PATHAk
+ 
 
 from Arrays import Array
 

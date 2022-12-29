@@ -1,4 +1,4 @@
-# Author: OMKAR PATHAK
+ 
 
 class BinaryHeap(object):
     def __init__(self):

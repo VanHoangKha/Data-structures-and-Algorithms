@@ -1,4 +1,4 @@
-# Author: OMKAR PATHAK
+ 
 
 # We can use Python's dictionary for constructing the graph
 

@@ -1,4 +1,4 @@
-# Author: OMKAR PATHAK
+ 
 
 # Input: root node, key
 #

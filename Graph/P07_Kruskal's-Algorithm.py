@@ -1,4 +1,4 @@
-# Author: OMKAR PATHAK
+ 
 
 # A greedy algorithm example
 

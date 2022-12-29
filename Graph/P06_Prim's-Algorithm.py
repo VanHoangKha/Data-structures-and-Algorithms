@@ -1,4 +1,4 @@
-# Author: OMKAR PATHAK
+ 
 
 # Algorithm:
 # 1) Create a set mstSet that keeps track of vertices already included in MST.

@@ -1,4 +1,4 @@
-# Author: OMKAR PATHAK
+ 
 
 # Decimal to binary using Stack
 
